@@ -1,0 +1,20 @@
+/*
+#->id selector
+.->class selector
+*/
+#register{
+    width: 500px;
+    border: 2px dotted blue;
+    padding: 0px 15px 15px 15px;
+    border-radius: 30px;
+    font-family: arial;
+    line-height: 16px;
+    color:green;
+    font-size: 14px;
+    background: lightyellow;
+    margin: 100px auto;
+  }
+  .errorMsg {
+    color: #cc0000;
+    margin-bottom: 12px;
+  }

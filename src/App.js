@@ -94,7 +94,7 @@ function App() {
       <Student/>
       <br></br>
       <FormsValidation/>
-   <Hello language="english" />
+   <Hello language="english Hindi" />
     <Hello1 language="french" />
     <Hello2 language="spanish" />
     
